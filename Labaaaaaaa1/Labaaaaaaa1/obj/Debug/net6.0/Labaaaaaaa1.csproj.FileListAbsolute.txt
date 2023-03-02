@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\bin\Debug\net6.0\Labaaaaaaa1.exe
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\bin\Debug\net6.0\Labaaaaaaa1.deps.json
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\bin\Debug\net6.0\Labaaaaaaa1.runtimeconfig.json
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\bin\Debug\net6.0\Labaaaaaaa1.dll
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\bin\Debug\net6.0\Labaaaaaaa1.pdb
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\Labaaaaaaa1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\Labaaaaaaa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\Labaaaaaaa1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\Labaaaaaaa1.AssemblyInfo.cs
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\Labaaaaaaa1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\Labaaaaaaa1.dll
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\refint\Labaaaaaaa1.dll
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\Labaaaaaaa1.pdb
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\Labaaaaaaa1.genruntimeconfig.cache
+C:\Users\HP\source\repos\Labaaaaaaa1\Labaaaaaaa1\obj\Debug\net6.0\ref\Labaaaaaaa1.dll
